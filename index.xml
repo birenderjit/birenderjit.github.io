@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Birenderjit</title>
-    <link>https://www.birenderjit.com/</link>
+    <link>https://birenderjit.com/</link>
     <description>Recent content on Birenderjit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Dec 2020 12:36:25 -0600</lastBuildDate><atom:link href="https://www.birenderjit.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Dec 2020 12:36:25 -0600</lastBuildDate><atom:link href="https://birenderjit.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://www.birenderjit.com/about/</link>
+      <link>https://birenderjit.com/about/</link>
       <pubDate>Tue, 29 Dec 2020 12:56:27 -0600</pubDate>
       
-      <guid>https://www.birenderjit.com/about/</guid>
+      <guid>https://birenderjit.com/about/</guid>
       <description>My Name is Birenderjit. I live in Memphis, TN. I grew up in India and worked there before moving to the US in 2012.</description>
     </item>
     
     <item>
       <title>Now</title>
-      <link>https://www.birenderjit.com/now/</link>
+      <link>https://birenderjit.com/now/</link>
       <pubDate>Tue, 29 Dec 2020 12:54:23 -0600</pubDate>
       
-      <guid>https://www.birenderjit.com/now/</guid>
+      <guid>https://birenderjit.com/now/</guid>
       <description>What I&amp;rsquo;m doing now (This is a now page, and if you have your own site, you should make one, too.</description>
     </item>
     
     <item>
       <title>First Blog Post</title>
-      <link>https://www.birenderjit.com/posts/my-first-post/</link>
+      <link>https://birenderjit.com/posts/my-first-post/</link>
       <pubDate>Tue, 29 Dec 2020 12:36:25 -0600</pubDate>
       
-      <guid>https://www.birenderjit.com/posts/my-first-post/</guid>
+      <guid>https://birenderjit.com/posts/my-first-post/</guid>
       <description>I finally set up the blog on Hugo. I had a blog on blogger and had not posted anything in that for many years.</description>
     </item>
     
